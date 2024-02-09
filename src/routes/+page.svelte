@@ -48,5 +48,3 @@
     {/each}
 </ul>
 
-<h2>Contact</h2>
-<p>For inquiries, please contact <a href="mailto:public@johan.cc">public@johan.cc</a></p>

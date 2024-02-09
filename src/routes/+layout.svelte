@@ -13,14 +13,23 @@
   <slot />
 </main>
 
-<footer>
+<footer class="mt-6">
+    <h2 class="text-xl">Contact</h2>
+<p>For inquiries, please contact <a href="mailto:public@johan.cc">public@johan.cc</a></p>
 
-    <address>
-      Prags Boulevard 61<br>
-      2300 København S<br>
-      Denmark
-    </address>
+<div class="flex">
 
-  <p>© {year} 61 Objekter</p>
+<div class="mt-4">
+  <h2 class="text-xl">Find us at</h2>
+<address>
+  Prags Boulevard 61<br>
+  2300 København S<br>
+  Denmark
+</address>
+</div>
+
+</div>
+
+  <p class="mt-6">© {year} 61 Objekter</p>
 </footer>
 </div>
